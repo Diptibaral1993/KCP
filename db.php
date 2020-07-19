@@ -1,9 +1,9 @@
 <?php
 
 $dbhost = 'localhost';
-$dbuser = 'root';
-$dbpass = '';
-$db='newspost';
+$dbuser = 'tra15978_kumar';
+$dbpass = 'telly^12345';
+$db='tra15978_tom';
 
 $conn = mysqli_connect($dbhost, $dbuser, $dbpass, $db);
 
